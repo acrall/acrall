@@ -1,4 +1,6 @@
-### Hi there 👋
+### Community Manager | Program Director | Evaluator | Open Science Advocate
+
+I am passionate about supporting organizations that seek to make positive change, especially in the areas of open science, community science, and environmental science. I build plans that help these organizations use data to make informed decisions and adopt more strategic approaches to their work. I advocate for these decisions to be community-driven, building in the perspectives of the individuals most impacted by them. I approach my work with an equity, inclusion, and accessibility lens, striving to always do better and be better. I thrive in collaborative environments where individuals and organizations with common values work together towards shared goals. If you are interested in chatting or partnering on an upcoming project, please email me.
 
 <!--
 **acrall/acrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
